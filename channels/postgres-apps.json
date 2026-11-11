@@ -2,8 +2,8 @@
   "schema_version": 1,
   "channel": "postgres-apps",
   "components": {
-    "gerencial": { "version": "2026.4.33" },
-    "pdv": { "version": "2026.4.33" },
-    "fnts_server": { "version": "2026.4.33" }
+    "gerencial": { "version": "2026.4.34" },
+    "pdv": { "version": "2026.4.34" },
+    "fnts_server": { "version": "2026.4.34" }
   }
 }

@@ -12,8 +12,7 @@ O Gerencial consulta `channels/apps.json`. Publique primeiro uma Release com a t
 | PDV | `pdv-v<VERSAO>` | `Sys_Net_NFCe.zip` |
 | Server | `server-v<VERSAO>` | `Sys_Net_Server.zip` |
 
-O manifesto `postgres-apps.json` permanece temporariamente como compatibilidade para versões já instaladas que ainda consultam esse endereço. Mantenha os dois manifestos em versões compatíveis até a atualização desses clientes.
-Na versão 2026.4.34, a tag `server-v2026.4.34` publica o mesmo asset da tag legada `fnts-server-v2026.4.34`; o canal `apps.json` usa o nome canônico `server`.
+`channels/apps.json` é a única fonte de versão para Gerencial, PDV e Server. O Server usa a tag `server-v<VERSAO>` e o asset `Sys_Net_Server.zip`.
 
 ## Backend e sincronização
 

@@ -3,16 +3,16 @@
     "channel":  "apps",
     "components":  {
                        "gerencial":  {
-                                         "version":  "2026.5.01",
-                                         "tag":  "gerencial-v2026.5.01"
+                                         "version":  "2026.5.1",
+                                         "tag":  "gerencial-v2026.5.1"
                                      },
                        "pdv":  {
-                                   "version":  "2026.5.01",
-                                   "tag":  "pdv-v2026.5.01"
+                                   "version":  "2026.5.1",
+                                   "tag":  "pdv-v2026.5.1"
                                },
                        "server":  {
-                                      "version":  "2026.5.01",
-                                      "tag":  "server-v2026.5.01"
+                                      "version":  "2026.5.1",
+                                      "tag":  "server-v2026.5.1"
                                   }
                    }
 }

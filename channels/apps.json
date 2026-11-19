@@ -2,8 +2,8 @@
   "schema_version": 1,
   "channel": "apps",
   "components": {
-    "gerencial": { "version": "2026.5.8", "tag": "gerencial-v2026.5.8" },
-    "pdv": { "version": "2026.5.8", "tag": "pdv-v2026.5.8" },
-    "server": { "version": "2026.5.8", "tag": "server-v2026.5.8" }
+    "gerencial": { "version": "2026.5.9", "tag": "gerencial-v2026.5.9" },
+    "pdv": { "version": "2026.5.9", "tag": "pdv-v2026.5.9" },
+    "server": { "version": "2026.5.9", "tag": "server-v2026.5.9" }
   }
 }

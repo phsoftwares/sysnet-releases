@@ -1,0 +1,51 @@
+{
+    "schema_version":  1,
+    "channel":  "beta",
+    "sequence":  1,
+    "published_at":  "2026-11-20T04:46:10Z",
+    "expires_at":  "2026-12-20T04:46:10Z",
+    "components":  {
+                       "sysnet-backend":  {
+                                              "component":  "sysnet-backend",
+                                              "version":  "2026.5.10",
+                                              "tag":  "sysnet-backend-v2026.5.10",
+                                              "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-backend-v2026.5.10/sysnet-backend-windows-amd64.zip",
+                                              "size":  14876565,
+                                              "sha256":  "3e829094dde5bcccb39f0d39919e7947d535eeeac4f4a0e6cfc1948bb166c9af",
+                                              "os":  "windows",
+                                              "arch":  "amd64",
+                                              "executable":  "sysnet-backend.exe",
+                                              "unpacked_size":  50145280,
+                                              "rollback_safe":  false,
+                                              "notes":  "SYSNET 2026.5.10; canal beta para testar o SYSNET Updater 10.5.1."
+                                          },
+                       "sysnet-sync-agent":  {
+                                                 "component":  "sysnet-sync-agent",
+                                                 "version":  "2026.5.10",
+                                                 "tag":  "sysnet-sync-agent-v2026.5.10",
+                                                 "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-agent-v2026.5.10/sysnet-sync-agent-windows-amd64.zip",
+                                                 "size":  4097612,
+                                                 "sha256":  "92787954124526e5cb18874cf8d8a7ce8799e946363258cf030a9cc7a7076a2c",
+                                                 "os":  "windows",
+                                                 "arch":  "amd64",
+                                                 "executable":  "sysnet-sync-agent.exe",
+                                                 "unpacked_size":  11188224,
+                                                 "rollback_safe":  false,
+                                                 "notes":  "SYSNET 2026.5.10; canal beta para testar o SYSNET Updater 10.5.1."
+                                             },
+                       "sysnet-sync-backend":  {
+                                                   "component":  "sysnet-sync-backend",
+                                                   "version":  "2026.5.10",
+                                                   "tag":  "sysnet-sync-backend-v2026.5.10",
+                                                   "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-backend-v2026.5.10/sysnet-sync-backend-windows-amd64.zip",
+                                                   "size":  4196048,
+                                                   "sha256":  "2451e435500efe7543997e54288af9fe4661ea2faec42edd03477a49fb50cbd6",
+                                                   "os":  "windows",
+                                                   "arch":  "amd64",
+                                                   "executable":  "sysnet-sync-backend.exe",
+                                                   "unpacked_size":  11438080,
+                                                   "rollback_safe":  false,
+                                                   "notes":  "SYSNET 2026.5.10; canal beta para testar o SYSNET Updater 10.5.1."
+                                               }
+                   }
+}

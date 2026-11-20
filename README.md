@@ -16,6 +16,6 @@ O Gerencial consulta `channels/apps.json`. Publique primeiro uma Release com a t
 
 ## Backend e sincronização
 
-O `sysnet-updater` consulta este mesmo repositório, pelos canais assinados `channels/stable.json` ou `channels/beta.json`, para baixar `sysnet-backend`, `sysnet-sync-agent` e `sysnet-sync-backend`. Esses canais usam envelopes assinados com Ed25519 e hashes dos ZIPs. A chave privada fica fora do repositório; clientes recebem apenas a chave pública confiável.
+O `sysnet-updater` consulta `channels/stable.json` ou `channels/beta.json` para baixar `sysnet-backend`, `sysnet-sync-agent` e `sysnet-sync-backend`. O updater atual aceita JSON direto por HTTPS e valida sequência, validade, origem, tamanho e SHA-256 de cada ZIP; não exige assinatura Ed25519 nem certificado próprio. Envelopes assinados antigos continuam aceitos por compatibilidade, mas o novo canal beta de teste é JSON direto. O instalador continua usando `stable`; use `beta` somente em uma máquina/VM descartável.
 
 Nunca publique os payloads de exemplo, os hashes ilustrativos ou a chave privada como canais válidos.

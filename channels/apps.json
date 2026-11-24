@@ -3,14 +3,14 @@
     "channel":  "apps",
     "components":  {
                        "gerencial":  {
-                                         "version":  "2026.5.14",
-                                         "tag":  "gerencial-v2026.5.14",
-                                         "sha256":  "4e1d79d7e66ab409e2d2df088832bc25893bef7b2dd01bfa057fcdbe9b02b9ac"
+                                         "version":  "2026.5.15",
+                                         "tag":  "gerencial-v2026.5.15",
+                                         "sha256":  "68c47bf8f4aee31dbd21aa0bef98ea093312bd457623c2fb61396542d805211f"
                                      },
                        "pdv":  {
-                                   "version":  "2026.5.14",
-                                   "tag":  "pdv-v2026.5.14",
-                                   "sha256":  "f0ad42ab50929d214a96cf4efb45446198f4d333c99a7d9d721e6b5239108dea"
+                                   "version":  "2026.5.15",
+                                   "tag":  "pdv-v2026.5.15",
+                                   "sha256":  "4cbfce637154c014f3f3342c6617c6617566b18ea493bc45ed9024c126d1dc16"
                                },
                        "server":  {
                                       "version":  "2026.5.14",

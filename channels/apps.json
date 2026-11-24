@@ -8,9 +8,9 @@
                                          "sha256":  "3dd523b239e40edf8374d43a3cc0ae06a4fc3a4a13de19973bcf172cd2a773c7"
                                      },
                        "pdv":  {
-                                   "version":  "2026.5.17",
-                                   "tag":  "pdv-v2026.5.17",
-                                   "sha256":  "98194d693e6f734660fbee77bae5f89a48daf836d3f81ccb26b56956feeac4c5"
+                                   "version":  "2026.5.18",
+                                   "tag":  "pdv-v2026.5.18",
+                                   "sha256":  "19f403cde7f9e02616907a0c38dfaf22fb82a68d013e58c657a1bfc08c329144"
                                },
                        "server":  {
                                       "version":  "2026.5.17",

@@ -1,9 +1,18 @@
 {
-  "schema_version": 1,
-  "channel": "apps",
-  "components": {
-    "gerencial": { "version": "2026.5.10", "tag": "gerencial-v2026.5.10" },
-    "pdv": { "version": "2026.5.10", "tag": "pdv-v2026.5.10" },
-    "server": { "version": "2026.5.10", "tag": "server-v2026.5.10" }
-  }
+    "schema_version":  1,
+    "channel":  "apps",
+    "components":  {
+                       "gerencial":  {
+                                         "version":  "2026.5.11",
+                                         "tag":  "gerencial-v2026.5.11"
+                                     },
+                       "pdv":  {
+                                   "version":  "2026.5.11",
+                                   "tag":  "pdv-v2026.5.11"
+                               },
+                       "server":  {
+                                      "version":  "2026.5.11",
+                                      "tag":  "server-v2026.5.11"
+                                  }
+                   }
 }

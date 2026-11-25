@@ -1,0 +1,43 @@
+name: Atualizar seção Downloads
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - channels/apps.json
+      - channels/stable.json
+      - .github/scripts/atualizar-downloads.py
+      - .github/workflows/atualizar-downloads.yml
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: downloads-readme
+  cancel-in-progress: true
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: main
+      - name: Gerar tabela
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/atualizar-downloads.py
+      - name: Atualizar README
+        shell: bash
+        run: |
+          if git diff --quiet -- README.md; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Atualiza a seção Downloads'
+          git push origin HEAD:main

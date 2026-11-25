@@ -3,9 +3,9 @@
     "channel":  "apps",
     "components":  {
                        "gerencial":  {
-                                         "version":  "2026.5.22",
-                                         "tag":  "gerencial-v2026.5.22",
-                                         "sha256":  "ad70fe048c97fdb1dfa331c8f54eb6d89a3e94a098032511a57495891d8979b6"
+                                         "version":  "2026.5.23",
+                                         "tag":  "gerencial-v2026.5.23",
+                                         "sha256":  "f9896ef58c1dbf73e46a69f4abf23a01755f8895a4759af373974a86101887ae"
                                      },
                        "pdv":  {
                                    "version":  "2026.5.22",

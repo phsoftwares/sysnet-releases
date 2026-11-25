@@ -10,7 +10,7 @@ Baixe a versão estável de cada componente. [Histórico de versões](https://gi
 | Componente | Versão atual | Download |
 | --- | --- | --- |
 | Instalador | 11.4 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-installer-v11.4-2026.5.22/SysNet-Instalador-v11.4.exe) |
-| Gerencial | 2026.5.22 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/gerencial-v2026.5.22/Sys_Net_Gerencial.zip) |
+| Gerencial | 2026.5.23 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/gerencial-v2026.5.23/Sys_Net_Gerencial.zip) |
 | PDV | 2026.5.22 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/pdv-v2026.5.22/Sys_Net_NFCe.zip) |
 | Servidor de integrações | 2026.5.22 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/server-v2026.5.22/Sys_Net_Server.zip) |
 | Migrador Firebird → PostgreSQL | 2026.5.22 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/xfarma-migrador-v2026.5.22/XFarmaMigradorPostgres-2026.5.22.zip) |

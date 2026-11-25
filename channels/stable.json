@@ -1,23 +1,23 @@
 {
     "schema_version":  1,
     "channel":  "stable",
-    "sequence":  1795586391,
-    "published_at":  "2026-11-25T05:59:51Z",
-    "expires_at":  "2026-12-25T05:59:51Z",
+    "sequence":  1795621787,
+    "published_at":  "2026-11-25T15:49:47Z",
+    "expires_at":  "2026-12-25T15:49:47Z",
     "components":  {
                        "sysnet-backend":  {
                                               "component":  "sysnet-backend",
-                                              "version":  "2026.5.19",
-                                              "tag":  "sysnet-backend-v2026.5.19",
-                                              "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-backend-v2026.5.19/sysnet-backend-windows-amd64.zip",
-                                              "size":  15093798,
-                                              "sha256":  "3998798f5f0e5f2319099d7fc478db01f195d0430fe0f38776af90c9eae7917b",
+                                              "version":  "2026.5.20",
+                                              "tag":  "sysnet-backend-v2026.5.20",
+                                              "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-backend-v2026.5.20/sysnet-backend-windows-amd64.zip",
+                                              "size":  15095148,
+                                              "sha256":  "2edd56d487b22af1db0cd0031434f4bedc0c18a3a40b95ccb6b5afd42fd5563c",
                                               "os":  "windows",
                                               "arch":  "amd64",
                                               "executable":  "sysnet-backend.exe",
-                                              "unpacked_size":  50746880,
+                                              "unpacked_size":  50750464,
                                               "rollback_safe":  false,
-                                              "notes":  "SYSNET 2026.5.19"
+                                              "notes":  "SYSNET 2026.5.20: abertura de caixa com saldo migrado e bloqueio temporario de login."
                                           },
                        "sysnet-sync-agent":  {
                                                  "component":  "sysnet-sync-agent",

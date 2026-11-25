@@ -1,23 +1,23 @@
 {
     "schema_version":  1,
     "channel":  "stable",
-    "sequence":  1795645706,
-    "published_at":  "2026-11-25T22:28:26Z",
-    "expires_at":  "2026-12-25T22:28:26Z",
+    "sequence":  1795649916,
+    "published_at":  "2026-11-25T23:38:36Z",
+    "expires_at":  "2026-12-25T23:38:36Z",
     "components":  {
                        "sysnet-backend":  {
                                               "component":  "sysnet-backend",
-                                              "version":  "2026.5.22",
-                                              "tag":  "sysnet-backend-v2026.5.22",
-                                              "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-backend-v2026.5.22/sysnet-backend-windows-amd64.zip",
-                                              "size":  15103161,
-                                              "sha256":  "d140b2014c8482f66549449c428961681c1faee2e814c121256c335a2c763725",
+                                              "version":  "2026.5.23",
+                                              "tag":  "sysnet-backend-v2026.5.23",
+                                              "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-backend-v2026.5.23/sysnet-backend-windows-amd64.zip",
+                                              "size":  14855926,
+                                              "sha256":  "4336655a706f14470861bb28a6835a846d54b68e74024373099424c30ae1b1bb",
                                               "os":  "windows",
                                               "arch":  "amd64",
                                               "executable":  "sysnet-backend.exe",
-                                              "unpacked_size":  50769920,
+                                              "unpacked_size":  50768896,
                                               "rollback_safe":  false,
-                                              "notes":  "SYSNET 2026.5.22"
+                                              "notes":  "Aceita documentos com digitos verificadores invalidos na importacao de pedidos de compra."
                                           },
                        "sysnet-sync-agent":  {
                                                  "component":  "sysnet-sync-agent",

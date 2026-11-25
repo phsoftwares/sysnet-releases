@@ -1,65 +1,65 @@
 {
     "schema_version":  1,
     "channel":  "stable",
-    "sequence":  1795621787,
-    "published_at":  "2026-11-25T15:49:47Z",
-    "expires_at":  "2026-12-25T15:49:47Z",
+    "sequence":  1795645706,
+    "published_at":  "2026-11-25T22:28:26Z",
+    "expires_at":  "2026-12-25T22:28:26Z",
     "components":  {
                        "sysnet-backend":  {
                                               "component":  "sysnet-backend",
-                                              "version":  "2026.5.20",
-                                              "tag":  "sysnet-backend-v2026.5.20",
-                                              "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-backend-v2026.5.20/sysnet-backend-windows-amd64.zip",
-                                              "size":  15095148,
-                                              "sha256":  "2edd56d487b22af1db0cd0031434f4bedc0c18a3a40b95ccb6b5afd42fd5563c",
+                                              "version":  "2026.5.22",
+                                              "tag":  "sysnet-backend-v2026.5.22",
+                                              "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-backend-v2026.5.22/sysnet-backend-windows-amd64.zip",
+                                              "size":  15103161,
+                                              "sha256":  "d140b2014c8482f66549449c428961681c1faee2e814c121256c335a2c763725",
                                               "os":  "windows",
                                               "arch":  "amd64",
                                               "executable":  "sysnet-backend.exe",
-                                              "unpacked_size":  50750464,
+                                              "unpacked_size":  50769920,
                                               "rollback_safe":  false,
-                                              "notes":  "SYSNET 2026.5.20: abertura de caixa com saldo migrado e bloqueio temporario de login."
+                                              "notes":  "SYSNET 2026.5.22"
                                           },
                        "sysnet-sync-agent":  {
                                                  "component":  "sysnet-sync-agent",
-                                                 "version":  "2026.5.19",
-                                                 "tag":  "sysnet-sync-agent-v2026.5.19",
-                                                 "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-agent-v2026.5.19/sysnet-sync-agent-windows-amd64.zip",
-                                                 "size":  4098130,
-                                                 "sha256":  "a2e0237a7fab951d5df194ad2b218336c6de7f092e3ab7033922ef411ac00b6a",
+                                                 "version":  "2026.5.22",
+                                                 "tag":  "sysnet-sync-agent-v2026.5.22",
+                                                 "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-agent-v2026.5.22/sysnet-sync-agent-windows-amd64.zip",
+                                                 "size":  4098171,
+                                                 "sha256":  "56aecb5d1db57d01d9d0732a36bd0acaa318ab530886429a612c7acf6717b1cc",
                                                  "os":  "windows",
                                                  "arch":  "amd64",
                                                  "executable":  "sysnet-sync-agent.exe",
                                                  "unpacked_size":  11190784,
                                                  "rollback_safe":  false,
-                                                 "notes":  "SYSNET 2026.5.19"
+                                                 "notes":  "SYSNET 2026.5.22"
                                              },
                        "sysnet-sync-backend":  {
                                                    "component":  "sysnet-sync-backend",
-                                                   "version":  "2026.5.19",
-                                                   "tag":  "sysnet-sync-backend-v2026.5.19",
-                                                   "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-backend-v2026.5.19/sysnet-sync-backend-windows-amd64.zip",
-                                                   "size":  4202153,
-                                                   "sha256":  "dfd044819123d9013925e360170955aefb916644448efdea0d1bfd8909ccb29e",
+                                                   "version":  "2026.5.22",
+                                                   "tag":  "sysnet-sync-backend-v2026.5.22",
+                                                   "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-backend-v2026.5.22/sysnet-sync-backend-windows-amd64.zip",
+                                                   "size":  4202161,
+                                                   "sha256":  "6e25fa678d0c6a7c8a84d2c8f62d3fee246dfb9d6c4fe60d44c46f03fe55f96e",
                                                    "os":  "windows",
                                                    "arch":  "amd64",
                                                    "executable":  "sysnet-sync-backend.exe",
                                                    "unpacked_size":  11452928,
                                                    "rollback_safe":  false,
-                                                   "notes":  "SYSNET 2026.5.19"
+                                                   "notes":  "SYSNET 2026.5.22"
                                                },
                        "sysnet-updater":  {
                                               "component":  "sysnet-updater",
-                                              "version":  "11.3.0",
-                                              "tag":  "sysnet-updater-v11.3.0",
-                                              "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.3.0/sysnet-updater-windows-amd64.zip",
-                                              "size":  3143798,
-                                              "sha256":  "90d63ab7b2a76f0ea81cb3596bca4aa15816fd0f608e9561c601bceac773ca74",
+                                              "version":  "11.4.0",
+                                              "tag":  "sysnet-updater-v11.4.0",
+                                              "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.4.0/sysnet-updater-windows-amd64.zip",
+                                              "size":  3143802,
+                                              "sha256":  "b7c83c87d6c3d84196329a79a772dfbe266d2eeea001bc2807ea5f3ea36173ff",
                                               "os":  "windows",
                                               "arch":  "amd64",
                                               "executable":  "sysnet-updater.exe",
                                               "unpacked_size":  7462912,
                                               "rollback_safe":  false,
-                                              "notes":  "SYSNET 11.3.0"
+                                              "notes":  "SYSNET 11.4.0"
                                           }
                    }
 }

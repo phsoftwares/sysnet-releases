@@ -1,65 +1,65 @@
 {
-    "schema_version":  1,
-    "channel":  "stable",
-    "sequence":  1795675476,
-    "published_at":  "2026-11-26T06:44:36Z",
-    "expires_at":  "2026-12-26T06:44:36Z",
-    "components":  {
-                       "sysnet-backend":  {
-                                              "component":  "sysnet-backend",
-                                              "version":  "2026.5.24",
-                                              "tag":  "sysnet-backend-v2026.5.24",
-                                              "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-backend-v2026.5.24/sysnet-backend-windows-amd64.zip",
-                                              "size":  15193595,
-                                              "sha256":  "891da743aa81c2b4d4a23f97a5f2a8ec8ea38eca0716139ab7b8114520a09919",
-                                              "os":  "windows",
-                                              "arch":  "amd64",
-                                              "executable":  "sysnet-backend.exe",
-                                              "unpacked_size":  51176448,
-                                              "rollback_safe":  false,
-                                              "notes":  "SYSNET 2026.5.24"
-                                          },
-                       "sysnet-sync-agent":  {
-                                                 "component":  "sysnet-sync-agent",
-                                                 "version":  "2026.5.24",
-                                                 "tag":  "sysnet-sync-agent-v2026.5.24",
-                                                 "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-agent-v2026.5.24/sysnet-sync-agent-windows-amd64.zip",
-                                                 "size":  4098363,
-                                                 "sha256":  "215819f42da55920e128fa083345f824bcbc040a7a9c7e5a636437426078e7f8",
-                                                 "os":  "windows",
-                                                 "arch":  "amd64",
-                                                 "executable":  "sysnet-sync-agent.exe",
-                                                 "unpacked_size":  11191296,
-                                                 "rollback_safe":  false,
-                                                 "notes":  "SYSNET 2026.5.24"
-                                             },
-                       "sysnet-sync-backend":  {
-                                                   "component":  "sysnet-sync-backend",
-                                                   "version":  "2026.5.24",
-                                                   "tag":  "sysnet-sync-backend-v2026.5.24",
-                                                   "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-backend-v2026.5.24/sysnet-sync-backend-windows-amd64.zip",
-                                                   "size":  4203881,
-                                                   "sha256":  "6b5ce6a1d2051fd522bc6ad41c6077af231079d5ceabf067b007d2458392d895",
-                                                   "os":  "windows",
-                                                   "arch":  "amd64",
-                                                   "executable":  "sysnet-sync-backend.exe",
-                                                   "unpacked_size":  11458560,
-                                                   "rollback_safe":  false,
-                                                   "notes":  "SYSNET 2026.5.24"
-                                               },
-                       "sysnet-updater":  {
-                                              "component":  "sysnet-updater",
-                                              "version":  "11.5.0",
-                                              "tag":  "sysnet-updater-v11.5.0",
-                                              "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.5.0/sysnet-updater-windows-amd64.zip",
-                                              "size":  3271846,
-                                              "sha256":  "beb8172208367964eeb99cb64e4c1c4474dd183a3f0936ee88f7534e63e70df5",
-                                              "os":  "windows",
-                                              "arch":  "amd64",
-                                              "executable":  "sysnet-updater.exe",
-                                              "unpacked_size":  7770624,
-                                              "rollback_safe":  false,
-                                              "notes":  "SYSNET 11.5.0"
-                                          }
-                   }
+  "schema_version": 1,
+  "channel": "stable",
+  "sequence": 1795677275,
+  "published_at": "2026-11-26T07:14:35Z",
+  "expires_at": "2026-12-26T07:14:35Z",
+  "components": {
+    "sysnet-backend": {
+      "component": "sysnet-backend",
+      "version": "2026.5.24",
+      "tag": "sysnet-backend-v2026.5.24",
+      "url": "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-backend-v2026.5.24/sysnet-backend-windows-amd64.zip",
+      "size": 15193595,
+      "sha256": "891da743aa81c2b4d4a23f97a5f2a8ec8ea38eca0716139ab7b8114520a09919",
+      "os": "windows",
+      "arch": "amd64",
+      "executable": "sysnet-backend.exe",
+      "unpacked_size": 51176448,
+      "rollback_safe": false,
+      "notes": "SYSNET 2026.5.24"
+    },
+    "sysnet-sync-agent": {
+      "component": "sysnet-sync-agent",
+      "version": "2026.5.24",
+      "tag": "sysnet-sync-agent-v2026.5.24",
+      "url": "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-agent-v2026.5.24/sysnet-sync-agent-windows-amd64.zip",
+      "size": 4098363,
+      "sha256": "215819f42da55920e128fa083345f824bcbc040a7a9c7e5a636437426078e7f8",
+      "os": "windows",
+      "arch": "amd64",
+      "executable": "sysnet-sync-agent.exe",
+      "unpacked_size": 11191296,
+      "rollback_safe": false,
+      "notes": "SYSNET 2026.5.24"
+    },
+    "sysnet-sync-backend": {
+      "component": "sysnet-sync-backend",
+      "version": "2026.5.24",
+      "tag": "sysnet-sync-backend-v2026.5.24",
+      "url": "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-backend-v2026.5.24/sysnet-sync-backend-windows-amd64.zip",
+      "size": 4203881,
+      "sha256": "6b5ce6a1d2051fd522bc6ad41c6077af231079d5ceabf067b007d2458392d895",
+      "os": "windows",
+      "arch": "amd64",
+      "executable": "sysnet-sync-backend.exe",
+      "unpacked_size": 11458560,
+      "rollback_safe": false,
+      "notes": "SYSNET 2026.5.24"
+    },
+    "sysnet-updater": {
+      "component": "sysnet-updater",
+      "version": "11.5.1",
+      "tag": "sysnet-updater-v11.5.1",
+      "url": "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.5.1/sysnet-updater-windows-amd64.zip",
+      "size": 3204343,
+      "sha256": "836e43c9b8c57c5931bf9d981d2300cb16e1abe851eaefaec96ff55122f7c642",
+      "os": "windows",
+      "arch": "amd64",
+      "executable": "sysnet-updater.exe",
+      "unpacked_size": 7777280,
+      "rollback_safe": false,
+      "notes": "Deteccao de versao e inicializacao em pastas de operacao do Updater"
+    }
+  }
 }

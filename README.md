@@ -17,7 +17,7 @@ Baixe a versão estável de cada componente. [Histórico de versões](https://gi
 | Backend | 2026.5.24 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-backend-v2026.5.24/sysnet-backend-windows-amd64.zip) |
 | Sync Agent | 2026.5.24 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-agent-v2026.5.24/sysnet-sync-agent-windows-amd64.zip) |
 | Sync Backend | 2026.5.24 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-backend-v2026.5.24/sysnet-sync-backend-windows-amd64.zip) |
-| Updater | 11.5.0 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.5.0/sysnet-updater-windows-amd64.zip) |
+| Updater | 11.5.1 | [Pacote de atendimento](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.5.1/SysNet-Updater-11.5.1-Atendimento.zip) · [ZIP do canal](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.5.1/sysnet-updater-windows-amd64.zip) · [Helper](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.5.1/sysnet-updater-helper.exe) |
 <!-- downloads:fim -->
 
 ## Gerencial, PDV e Server

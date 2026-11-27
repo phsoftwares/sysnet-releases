@@ -1,23 +1,23 @@
 {
     "schema_version":  1,
     "channel":  "stable",
-    "sequence":  1795749748,
-    "published_at":  "2026-11-27T03:22:28Z",
-    "expires_at":  "2026-12-27T03:22:28Z",
+    "sequence":  1795755031,
+    "published_at":  "2026-11-27T04:50:31Z",
+    "expires_at":  "2026-12-27T04:50:31Z",
     "components":  {
                        "sysnet-backend":  {
                                               "component":  "sysnet-backend",
-                                              "version":  "2026.5.27",
-                                              "tag":  "sysnet-backend-v2026.5.27",
-                                              "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-backend-v2026.5.27/sysnet-backend-windows-amd64.zip",
-                                              "size":  15197227,
-                                              "sha256":  "b03fb0c927865f5f8fc5d363904139e388f9d007d11409e740ef3e4b51f149f8",
+                                              "version":  "2026.5.28",
+                                              "tag":  "sysnet-backend-v2026.5.28",
+                                              "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-backend-v2026.5.28/sysnet-backend-windows-amd64.zip",
+                                              "size":  14954120,
+                                              "sha256":  "967727af31b3c2a42cb08ec713067063235f457458fa9823d2a24d0dc795b192",
                                               "os":  "windows",
                                               "arch":  "amd64",
                                               "executable":  "sysnet-backend.exe",
-                                              "unpacked_size":  51190272,
+                                              "unpacked_size":  51191296,
                                               "rollback_safe":  false,
-                                              "notes":  "SYSNET 2026.5.27"
+                                              "notes":  "Corrige a aplicacao da migration 489 em bases com a funcao de formas de pagamento ja instalada."
                                           },
                        "sysnet-sync-agent":  {
                                                  "component":  "sysnet-sync-agent",

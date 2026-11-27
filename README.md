@@ -9,15 +9,15 @@ Baixe a versão estável de cada componente. [Histórico de versões](https://gi
 <!-- downloads:inicio -->
 | Componente | Versão atual | Download |
 | --- | --- | --- |
-| Instalador | 11.6 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-installer-v11.6-2026.5.25/SysNet-Instalador-v11.6.exe) |
-| Gerencial | 2026.5.26 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/gerencial-v2026.5.26/Sys_Net_Gerencial.zip) |
-| PDV | 2026.5.26 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/pdv-v2026.5.26/Sys_Net_NFCe.zip) |
-| Servidor de integrações | 2026.5.25 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/server-v2026.5.25/Sys_Net_Server.zip) |
-| Migrador Firebird → PostgreSQL | 2026.5.25 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/xfarma-migrador-v2026.5.25/XFarmaMigradorPostgres-2026.5.25.zip) |
-| Backend | 2026.5.26 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-backend-v2026.5.26/sysnet-backend-windows-amd64.zip) |
-| Sync Agent | 2026.5.25 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-agent-v2026.5.25/sysnet-sync-agent-windows-amd64.zip) |
-| Sync Backend | 2026.5.25 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-backend-v2026.5.25/sysnet-sync-backend-windows-amd64.zip) |
-| Updater | 11.6.0 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.6.0/sysnet-updater-windows-amd64.zip) / [Helper](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.6.0/sysnet-updater-helper.exe) / [Pacote de atendimento](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.6.0/SysNet-Updater-11.6.0-Atendimento.zip) |
+| Instalador | 11.7 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-installer-v11.7-2026.5.27/SysNet-Instalador-v11.7.exe) |
+| Gerencial | 2026.5.27 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/gerencial-v2026.5.27/Sys_Net_Gerencial.zip) |
+| PDV | 2026.5.27 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/pdv-v2026.5.27/Sys_Net_NFCe.zip) |
+| Servidor de integrações | 2026.5.27 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/server-v2026.5.27/Sys_Net_Server.zip) |
+| Migrador Firebird → PostgreSQL | 2026.5.27 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/xfarma-migrador-v2026.5.27/XFarmaMigradorPostgres-2026.5.27.zip) |
+| Backend | 2026.5.27 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-backend-v2026.5.27/sysnet-backend-windows-amd64.zip) |
+| Sync Agent | 2026.5.27 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-agent-v2026.5.27/sysnet-sync-agent-windows-amd64.zip) |
+| Sync Backend | 2026.5.27 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-backend-v2026.5.27/sysnet-sync-backend-windows-amd64.zip) |
+| Updater | 11.7.0 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.7.0/sysnet-updater-windows-amd64.zip) / [Helper](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.7.0/sysnet-updater-helper.exe) / [Pacote de atendimento](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.7.0/SysNet-Updater-11.7.0-Atendimento.zip) |
 <!-- downloads:fim -->
 
 ## Gerencial, PDV e Server

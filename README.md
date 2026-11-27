@@ -17,7 +17,7 @@ Baixe a versão estável de cada componente. [Histórico de versões](https://gi
 | Backend | 2026.5.28 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-backend-v2026.5.28/sysnet-backend-windows-amd64.zip) |
 | Sync Agent | 2026.5.27 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-agent-v2026.5.27/sysnet-sync-agent-windows-amd64.zip) |
 | Sync Backend | 2026.5.27 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-backend-v2026.5.27/sysnet-sync-backend-windows-amd64.zip) |
-| Updater | 11.7.3 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.7.3/sysnet-updater-windows-amd64.zip) / [Helper](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.7.3/sysnet-updater-helper.exe) / [Pacote de atendimento](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.7.3/SysNet-Updater-11.7.3-Atendimento.zip) |
+| Updater | 11.7.4 | [Baixar](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.7.4/sysnet-updater-windows-amd64.zip) / [Helper](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.7.4/sysnet-updater-helper.exe) / [Pacote de atendimento](https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.7.4/SysNet-Updater-11.7.4-Atendimento.zip) |
 <!-- downloads:fim -->
 
 ## Gerencial, PDV e Server

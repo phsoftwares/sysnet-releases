@@ -1,9 +1,9 @@
 {
     "schema_version":  1,
     "channel":  "stable",
-    "sequence":  1795755307,
-    "published_at":  "2026-11-27T04:55:07Z",
-    "expires_at":  "2026-12-27T04:55:07Z",
+    "sequence":  1795758862,
+    "published_at":  "2026-11-27T05:54:22Z",
+    "expires_at":  "2026-12-27T05:54:22Z",
     "components":  {
                        "sysnet-backend":  {
                                               "component":  "sysnet-backend",
@@ -49,17 +49,17 @@
                                                },
                        "sysnet-updater":  {
                                               "component":  "sysnet-updater",
-                                              "version":  "11.7.3",
-                                              "tag":  "sysnet-updater-v11.7.3",
-                                              "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.7.3/sysnet-updater-windows-amd64.zip",
-                                              "size":  3207241,
-                                              "sha256":  "84397c7a589d1b2ed48cc06beebcfd91aeab74ba95def256fbce5ba56d49ea84",
+                                              "version":  "11.7.4",
+                                              "tag":  "sysnet-updater-v11.7.4",
+                                              "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.7.4/sysnet-updater-windows-amd64.zip",
+                                              "size":  3209492,
+                                              "sha256":  "67d2d4374b0e7dbebbbaf7c0729ef2c7db9b0fcd9d7f3062c37add4346403e5f",
                                               "os":  "windows",
                                               "arch":  "amd64",
                                               "executable":  "sysnet-updater.exe",
-                                              "unpacked_size":  7785984,
+                                              "unpacked_size":  7792128,
                                               "rollback_safe":  false,
-                                              "notes":  "Melhora recuperacao de servicos interrompidos e a verificacao de versoes durante incidentes."
+                                              "notes":  "Reconcilia o Updater em execucao e verifica o canal aos 2, 10 e 60 minutos."
                                           }
                    }
 }

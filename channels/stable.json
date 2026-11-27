@@ -1,65 +1,65 @@
 {
     "schema_version":  1,
     "channel":  "stable",
-    "sequence":  1795758862,
-    "published_at":  "2026-11-27T05:54:22Z",
-    "expires_at":  "2026-12-27T05:54:22Z",
+    "sequence":  1795784742,
+    "published_at":  "2026-11-27T13:05:42Z",
+    "expires_at":  "2026-12-27T13:05:42Z",
     "components":  {
                        "sysnet-backend":  {
                                               "component":  "sysnet-backend",
-                                              "version":  "2026.5.28",
-                                              "tag":  "sysnet-backend-v2026.5.28",
-                                              "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-backend-v2026.5.28/sysnet-backend-windows-amd64.zip",
-                                              "size":  14954120,
-                                              "sha256":  "967727af31b3c2a42cb08ec713067063235f457458fa9823d2a24d0dc795b192",
+                                              "version":  "2026.5.29",
+                                              "tag":  "sysnet-backend-v2026.5.29",
+                                              "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-backend-v2026.5.29/sysnet-backend-windows-amd64.zip",
+                                              "size":  15199996,
+                                              "sha256":  "1b62a9574b64f6bccc6d58e53b8b64edd4e0fa90015fa09079fce38ff2a5e54a",
                                               "os":  "windows",
                                               "arch":  "amd64",
                                               "executable":  "sysnet-backend.exe",
-                                              "unpacked_size":  51191296,
+                                              "unpacked_size":  51194368,
                                               "rollback_safe":  false,
-                                              "notes":  "Corrige a aplicacao da migration 489 em bases com a funcao de formas de pagamento ja instalada."
+                                              "notes":  "SYSNET 2026.5.29"
                                           },
                        "sysnet-sync-agent":  {
                                                  "component":  "sysnet-sync-agent",
-                                                 "version":  "2026.5.27",
-                                                 "tag":  "sysnet-sync-agent-v2026.5.27",
-                                                 "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-agent-v2026.5.27/sysnet-sync-agent-windows-amd64.zip",
-                                                 "size":  4098207,
-                                                 "sha256":  "abb3c3ac6bb1167dcfebf00f15ee3e2249eb6d563d0c462eab1c24d4bd1a6f66",
+                                                 "version":  "2026.5.29",
+                                                 "tag":  "sysnet-sync-agent-v2026.5.29",
+                                                 "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-agent-v2026.5.29/sysnet-sync-agent-windows-amd64.zip",
+                                                 "size":  4098205,
+                                                 "sha256":  "fa39088f0d1195d1f2b1ffd2b4713ef279d35be40301c9064c7b29b2a77ec918",
                                                  "os":  "windows",
                                                  "arch":  "amd64",
                                                  "executable":  "sysnet-sync-agent.exe",
                                                  "unpacked_size":  11190784,
                                                  "rollback_safe":  false,
-                                                 "notes":  "SYSNET 2026.5.27"
+                                                 "notes":  "SYSNET 2026.5.29"
                                              },
                        "sysnet-sync-backend":  {
                                                    "component":  "sysnet-sync-backend",
-                                                   "version":  "2026.5.27",
-                                                   "tag":  "sysnet-sync-backend-v2026.5.27",
-                                                   "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-backend-v2026.5.27/sysnet-sync-backend-windows-amd64.zip",
-                                                   "size":  4203770,
-                                                   "sha256":  "d0db392f9679bb61578367d90c25921d4bc17a22b7def28889092d0962d39fe8",
+                                                   "version":  "2026.5.29",
+                                                   "tag":  "sysnet-sync-backend-v2026.5.29",
+                                                   "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-sync-backend-v2026.5.29/sysnet-sync-backend-windows-amd64.zip",
+                                                   "size":  4203766,
+                                                   "sha256":  "f4d588affb7a1016ffe2cee3b0a39b336b4d99f25e1b2191daf78426f97ced6c",
                                                    "os":  "windows",
                                                    "arch":  "amd64",
                                                    "executable":  "sysnet-sync-backend.exe",
                                                    "unpacked_size":  11458048,
                                                    "rollback_safe":  false,
-                                                   "notes":  "SYSNET 2026.5.27"
+                                                   "notes":  "SYSNET 2026.5.29"
                                                },
                        "sysnet-updater":  {
                                               "component":  "sysnet-updater",
-                                              "version":  "11.7.4",
-                                              "tag":  "sysnet-updater-v11.7.4",
-                                              "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.7.4/sysnet-updater-windows-amd64.zip",
-                                              "size":  3209492,
-                                              "sha256":  "67d2d4374b0e7dbebbbaf7c0729ef2c7db9b0fcd9d7f3062c37add4346403e5f",
+                                              "version":  "11.8.0",
+                                              "tag":  "sysnet-updater-v11.8.0",
+                                              "url":  "https://github.com/phsoftwares/sysnet-releases/releases/download/sysnet-updater-v11.8.0/sysnet-updater-windows-amd64.zip",
+                                              "size":  3276687,
+                                              "sha256":  "1cbd3a4a08cc6149773b25461242f6dcf3518c75b7d8332a3b68fda62b7a2eeb",
                                               "os":  "windows",
                                               "arch":  "amd64",
                                               "executable":  "sysnet-updater.exe",
                                               "unpacked_size":  7792128,
                                               "rollback_safe":  false,
-                                              "notes":  "Reconcilia o Updater em execucao e verifica o canal aos 2, 10 e 60 minutos."
+                                              "notes":  "SYSNET 11.8.0"
                                           }
                    }
 }
